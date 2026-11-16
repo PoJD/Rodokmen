@@ -38,11 +38,12 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   (údaj uživatele, ženich omylem „Jan“; zápis jsem nečetl – O Bozkov sign. 4862, ARON c35d0273). Josef má být sedlák.
 - Nalezeno: Anežka Marie * 2. 8. 1818 Příkrý čp. 40, stejná matka, otec zapsán „Růžek (?) Josef, sedlák z Bítouchova“ –
   pravděpodobná sestra (SIDE, prob). Zeptat se uživatele, zda zná jméno „Růžek“ (po chalupě?).
-- Negativní: Bítouchov křty 1809–1832 (deník 3–4), Příkrý křty 1816–1818 celé (deník 9), úmrtí Bítouchov 12/1824–6/1836
-  (deník 8; čp. 35 se nevyskytuje vůbec, Anežka nezemřela).
-- Další kroky: (1) Příkrý křty 1819–1839 (N Bozkov sign. 4859, ARON 2f07ce4c) – hledat matku Anežku Špidlenovou bez
-  ohledu na příjmení otce, čp. 40 a 49; (2) přečíst sňatek 1815 (sign. 4862); (3) úmrtí Příkrý (Z Bozkov sign. 4865,
-  ARON 824c283a) a Bítouchov po 1836 (sign. 5207; pokračování „pag. 186“ v sign. 5206); (4) křty Bítouchov 1833–1850
-  (sign. 5195–5197, od 1841 Bozkov sign. 4860); (5) úmrtí malé Anežky Marie.
+- Negativní: Bítouchov křty 1809–1832 (deník 3–4); Příkrý křty 1816–1839 celé (deník 10–11); úmrtí Bítouchov 12/1824–1848
+  (deník 8, 12) a Příkrý 1815–1840 (deník 12) – Anežka ani další děti nikde.
+- Stopa: † 2. 9. 1841 Bítouchov čp. 35 Josef Hausa, výměnník, 80 let (zápis bitouchov_umrti_josef_hausa_1841) – otec?
+  Pak by mu bylo při sňatku 1815 asi 54 → první manželství, nevlastní sourozenci. Zeptat se na věk ženicha v zápisu 1815.
+- Další kroky: (1) přečíst sňatek 1815 (O Bozkov sign. 4862, ARON c35d0273) – věk, vdovec?; (2) když vdovec: křty
+  Bítouchov před 1815 (N Semily sign. 5191, 5192 – oddíl Bítouchova sn. 190–196) a 1. sňatek; (3) křty Bítouchov 1833–1840
+  (sign. 5195, 5196); (4) Anežka po 1848 (Z Bozkov sign. 5691 / index 5695, Z Semily 5208).
 - V Bítouchově je víc Josefů Hausů (čp. 39 sedlák, 40/15, 8/25, 7) – rozhoduje jméno matky.
 - Web ani zveřejnění se neřešilo.
