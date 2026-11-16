@@ -4,7 +4,7 @@ Tento soubor je vstupní bod. Po každém restartu (nová konverzace, zkrácený
 pak konec `research_log.md` a sekci „Rozpracováno“.
 
 ## Pro koho
-- Výchozí osoba: Josef Petr Houša (Hous), * 7. 1. 1823 Bítouchov čp. 35 (farnost Semily). Zadání: najít všechny jeho sourozence.
+- Výchozí osoba: Josef Petr Housa, * 7. 1. 1823 Bítouchov čp. 35 (farnost Semily). Zadání: najít všechny jeho sourozence.
 - Kdo s Claudem pracuje a jak chce komunikovat: uživatel zadal odkaz na matriky.online (sign. 5192, snímek 202); česky, stručně. Vztah k rodině zatím neřekl.
 
 ## Kde co je
@@ -34,8 +34,8 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
-- Křest Josefa Petra přečten a zapsán. Rodiče: Josef Hauša, podruh × Anežka Špidlenová z Příkrého čp. 49.
-- Sourozenci: v Bítouchově 1809–1832 žádný další křest tohoto páru (deník ř. 3–4). Pozor – v Bítouchově je víc Josefů Haušů
+- Křest Josefa Petra přečten a zapsán. Rodiče: Josef Hausa, podruh × Anežka Špidlenová z Příkrého čp. 49.
+- Sourozenci: v Bítouchově 1809–1832 žádný další křest tohoto páru (deník ř. 3–4). Pozor – v Bítouchově je víc Josefů Hausů
   (čp. 39, 40/15, 8/25, 7), každý s jinou ženou; rozhoduje jméno matky.
 - Další kroky: (1) úmrtí Bítouchov 1823–1836 (Z Semily sign. 5206, ARON f6257136) – nezemřel Josef Petr nebo některý rodič?
   (2) sňatek: oddíl Bítouchova v O sign. 5202 (fol. 321–325) a Příkrý před 1821; (3) křty 1833–1850 (index sign. 5213,

@@ -18,16 +18,16 @@
 # Neznámý otec nemanželského dítěte: dict(n="otec neuveden", st="unk", f=[], note="…")
 
 P = {
-    1: dict(n="Josef Petr Houša (Hous)", y="* 1823", st="doc", sex="M",
+    1: dict(n="Josef Petr Housa", y="* 1823", st="doc", sex="M",
             f=["* 7. 1. 1823 Bítouchov čp. 35 (farnost Semily)"],
             r=["semily_krest_josef_petr_housa_1823"],
-            note="Výchozí osoba hledání (zadání: najít sourozence). V matrice psán Haußa / Hauša, v pozdějším rejstříku Housa."),
-    2: dict(n="Josef Houša (Hous)", y="", st="doc",
+            note="Výchozí osoba hledání (zadání: najít sourozence). V matrice psán Hauſa (Hausa), v pozdějším rejstříku Housa."),
+    2: dict(n="Josef Housa", y="", st="doc",
             f=["podruh v Bítouchově čp. 35 (1823)"],
             r=["semily_krest_josef_petr_housa_1823"],
-            note="V Bítouchově žilo kolem 1810–1832 nejméně pět mužů jménem Josef Hauša; tento je doložen jen jako manžel Anežky Špidlenové. Sňatek zatím nenalezen."),
+            note="V Bítouchově žilo kolem 1810–1832 nejméně pět mužů jménem Josef Hausa; tento je doložen jen jako manžel Anežky Špidlenové. Sňatek zatím nenalezen."),
     3: dict(n="Anežka Špidlenová", y="", st="doc",
-            f=["z Příkrého čp. 49", "26. 1. 1825 kmotra v Bítouchově jako žena Josefa Hauše, podruha"],
+            f=["z Příkrého čp. 49", "26. 1. 1825 kmotra v Bítouchově jako žena Josefa Hausy, podruha"],
             r=["semily_krest_josef_petr_housa_1823"],
             note="Příjmení v křestním zápisu čteno nesnadno; tvar Špidlen podle jiných zápisů z Příkrého. Kmotrovství 1825: matrika N Semily sign. 5192, snímek 205 (zápis zatím nezařazen do dat)."),
     6: dict(n="Josef Špidlen", y="", st="doc", f=["Příkrý čp. 49"], r=["semily_krest_josef_petr_housa_1823"]),
@@ -49,9 +49,9 @@ SIDE = [
 # „Vyřešeno: …“ (na webu se skryje), „Hypotéza: …“ nebo „Otevřené: …“. Jde na web – nic citlivého.
 # ("Kdy se narodil Jan Novák?", "Otevřené: rodina říká 1850, v Holicích 1848–1852 nenalezen.")
 ISSUES = [
-    ("Měl Josef Petr Houša (* 1823) sourozence?",
-     "Otevřené: v Bítouchově není v letech 1809–1832 zapsán žádný další křest dítěte Josefa Hauši a Anežky Špidlenové; ostatní křty dětí „Josefa Hauši“ patří jiným mužům téhož jména s jinými manželkami. Zbývá prověřit úmrtí 1823–1836, křty po roce 1832 a sousední farnosti."),
-    ("Kde a kdy se vzali Josef Houša a Anežka Špidlenová?",
+    ("Měl Josef Petr Housa (* 1823) sourozence?",
+     "Otevřené: v Bítouchově není v letech 1809–1832 zapsán žádný další křest dítěte Josefa Hausy a Anežky Špidlenové; ostatní křty dětí „Josefa Hausy“ patří jiným mužům téhož jména s jinými manželkami. Zbývá prověřit úmrtí 1823–1836, křty po roce 1832 a sousední farnosti."),
+    ("Kde a kdy se vzali Josef Housa a Anežka Špidlenová?",
      "Otevřené: v rejstříku oddaných farnosti Semily 1806–1828 ani v oddílu Příkrého 1821–1822 sňatek není."),
 ]
 
