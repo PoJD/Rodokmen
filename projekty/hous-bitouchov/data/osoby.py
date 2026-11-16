@@ -51,7 +51,7 @@ SIDE = [
 # ("Kdy se narodil Jan Novák?", "Otevřené: rodina říká 1850, v Holicích 1848–1852 nenalezen.")
 ISSUES = [
     ("Měl Josef Petr Housa (* 1823) sourozence?",
-     "Hypotéza: sestra Anežka Marie, * 2. 8. 1818 v Příkrém čp. 40 – stejná matka, otec však zapsán pod jiným příjmením („Růžek“?). V Bítouchově 1809–1832 a v Příkrém 1816–1818 jiné dítě těchto rodičů není; zbývá Příkrý 1819–1839 a obě farnosti po roce 1832."),
+     "Vyřešeno (uzavřeno 16. 11. 2026): sestra Anna Marie * 2. 8. 1818 Příkrý (otec omylem zapsán jako Křížek). Jiné děti páru nejsou v Bítouchově 1816–1832 ani v Příkrém 1816–1839; Bítouchov 1833–1835 neprohlédnut. Hledání ukončeno na pokyn uživatele."),
     ("Proč je otec Anny Marie (1818) zapsán jako Josef Křížek, a ne Hausa?",
      "Hypotéza: omyl písaře. Josefové Křížkové v Bítouchově měli manželky Dolenskou (čp. 2, 1807), Tulákovou (čp. 27, 1812) a Marii z Proseče (čp. 8); žádný si nevzal Špidlenovou (rejstřík O Semily 1797–1828, sňatky Příkrý 1795–1818). Matka i babička se shodují s Anežkou."),
     ("Kdy a kde zemřela Anežka Housová, roz. Špidlenová?",

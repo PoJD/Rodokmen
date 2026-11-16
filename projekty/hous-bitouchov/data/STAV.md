@@ -34,16 +34,9 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
-- Křest Josefa Petra (1823) zapsán. Rodiče: Josef Hausa × Anežka Špidlenová z Příkrého čp. 49; sňatek 20. 11. 1815 Příkrý
-  (údaj uživatele, ženich omylem „Jan“; zápis jsem nečetl – O Bozkov sign. 4862, ARON c35d0273). Josef má být sedlák.
-- Nalezeno: Anežka Marie * 2. 8. 1818 Příkrý čp. 40, stejná matka, otec zapsán „Růžek (?) Josef, sedlák z Bítouchova“ –
-  pravděpodobná sestra (SIDE, prob). Zeptat se uživatele, zda zná jméno „Růžek“ (po chalupě?).
-- Negativní: Bítouchov křty 1809–1832 (deník 3–4); Příkrý křty 1816–1839 celé (deník 10–11); úmrtí Bítouchov 12/1824–1848
-  (deník 8, 12) a Příkrý 1815–1840 (deník 12) – Anežka ani další děti nikde.
-- Stopa: † 2. 9. 1841 Bítouchov čp. 35 Josef Hausa, výměnník, 80 let (zápis bitouchov_umrti_josef_hausa_1841) – otec?
-  Pak by mu bylo při sňatku 1815 asi 54 → první manželství, nevlastní sourozenci. Zeptat se na věk ženicha v zápisu 1815.
-- Další kroky: (1) přečíst sňatek 1815 (O Bozkov sign. 4862, ARON c35d0273) – věk, vdovec?; (2) když vdovec: křty
-  Bítouchov před 1815 (N Semily sign. 5191, 5192 – oddíl Bítouchova sn. 190–196) a 1. sňatek; (3) křty Bítouchov 1833–1840
-  (sign. 5195, 5196); (4) Anežka po 1848 (Z Bozkov sign. 5691 / index 5695, Z Semily 5208).
-- V Bítouchově je víc Josefů Hausů (čp. 39 sedlák, 40/15, 8/25, 7) – rozhoduje jméno matky.
+- Hledání sourozenců Josefa Petra Housy (* 1823) UZAVŘENO (16. 11. 2026, rozhodl uživatel): sňatek 1815, děti nejpozději do ~1835.
+- Výsledek: Anna Marie * 2. 8. 1818 Příkrý čp. 40 (otec omylem „Josef Křížek“; Křížek × Špidlenová prověřen – nebyl) a Josef Petr * 7. 1. 1823 Bítouchov čp. 35.
+- Prohledáno: křty Bítouchov 1809–1832, Příkrý 1816–1839; úmrtí Bítouchov 12/1824–1848, Příkrý 1815–1840; sňatky Příkrý 1795–1818, rejstřík O Semily K 1778–1828.
+- Neprohlédnuto (kdyby se na to někdy vracelo): křty Bítouchov 1833–1835 (N Semily sign. 5195, ARON 446f348e).
+- Zjištění navíc: Josef Hausa starší, sedlák čp. 35 (1815), † 1841 jako výměnník, 80 let – nejspíš dědeček Josefa Petra.
 - Web ani zveřejnění se neřešilo.
