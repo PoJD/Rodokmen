@@ -15,8 +15,8 @@
   "snimek": 166,
   "druh": "N",
   "datum": "2. 8. 1818",
-  "nazev": "Křest Anežky Marie v Příkrém (otec zapsán „Růžek (?) Josef, sedlák z Bítouchova“)",
-  "shrnuti": "Anežka Marie, Příkrý čp. 40. Otec zapsán jako Růžek (?) Josef, sedlák z Bítouchova; matka Anežka, dcera Josefa Špidlena, sedláka z Příkrého čp. 49, a Barbory rozené Zemanové z Roztok.",
+  "nazev": "Křest Anny Marie v Příkrém (otec zapsán „Josef Křížek, sedlák z Bítouchova“)",
+  "shrnuti": "Anna Marie, Příkrý čp. 40. Otec zapsán jako Křížek Josef, sedlák z Bítouchova; matka Anežka, dcera Josefa Špidlena, sedláka z Příkrého čp. 49, a Barbory rozené Zemanové z Roztok.",
   "odkaz": "https://aron.vychodoceskearchivy.cz/apu/4c3a2c32-d08d-4bcb-871e-305f167cf708/dao/4c3a2c32-d08d-4bcb-871e-305f167cf708/file/24b98247-f60b-4780-bdd6-2985031a9912"
  },
  {
@@ -28,5 +28,15 @@
   "nazev": "Úmrtí Josefa Hausy, výměnníka z Bítouchova čp. 35",
   "shrnuti": "Josef Hausa, výměnník, Bítouchov čp. 35, zemřel 2. 9. 1841 ve věku 80 let, pohřben 4. 9. 1841.",
   "odkaz": "https://aron.vychodoceskearchivy.cz/apu/6ae80f30-85c4-43d4-adf3-cb3e59b4e645/dao/6ae80f30-85c4-43d4-adf3-cb3e59b4e645/file/ab938a9a-2416-4718-a8be-7c590b6f93f0"
+ },
+ {
+  "klic": "prikry_snatek_hausa_spidlenova_1815",
+  "svazek": "c35d0273",
+  "snimek": 100,
+  "druh": "O",
+  "datum": "20. 11. 1815",
+  "nazev": "Sňatek Josefa (zapsán jako Jan) Hausy a Anežky Špidlenové v Příkrém",
+  "shrnuti": "Ženich zapsán jako Jan, syn Josefa Hausy, sedláka z Bítouchova čp. 35, 20 let; nevěsta Anežka, dcera † Josefa Špidlena, sedláka z Příkrého čp. 49, a Barbory Zemanové.",
+  "odkaz": "https://aron.vychodoceskearchivy.cz/apu/c35d0273-ad09-483b-987b-7050985261e2/dao/c35d0273-ad09-483b-987b-7050985261e2/file/95a85876-3f38-48ce-9de0-a8390f80e34c"
  }
 ]
