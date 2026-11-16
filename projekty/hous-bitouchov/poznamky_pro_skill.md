@@ -22,3 +22,6 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
   Obecná rada do `matriky.md`: u rejstříku nejdřív zjistit řazení (po vsích × chronologicky) a hledat odkazy na pokračování.
 - `kontrola.py` hlásí chybějící obec u předka s nejistým místem („ze Lhoty (?)“) – u nejistého čtení by to mohlo mlčet.
 - ImageMagick v cloudu jen verze 6 (`convert`), nástroje s ní fungují.
+- Hledání sourozenců: vyplatilo se hledat podle **matky** (jméno, otec, dům), ne podle příjmení otce – dítě se našlo pod
+  jinak zapsaným příjmením otce v sousední farnosti (ves nevěsty). Rejstřík by ho neukázal. Stálo by za zmínku v `metodika.md`.
+- Auto mode: kontrola příkazu několikrát po sobě vrátila „no verdict“ u stahování snímků ve smyčce; pomohlo počkat a zopakovat.

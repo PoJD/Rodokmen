@@ -12,5 +12,12 @@
   "lat": 50.633,
   "lon": 15.3729,
   "osm": "Příkrý, okres Semily, Liberecký kraj, Česko"
+ },
+ "Roztoky u Semil": {
+  "re": "Roztok",
+  "dotaz": "Roztoky u Semil",
+  "lat": 50.6583,
+  "lon": 15.3716,
+  "osm": "Roztoky u Semil, okres Semily, Liberecký kraj, Česko"
  }
 }

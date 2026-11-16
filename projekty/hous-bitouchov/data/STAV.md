@@ -34,11 +34,15 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
-- Křest Josefa Petra přečten a zapsán. Rodiče: Josef Hausa, podruh × Anežka Špidlenová z Příkrého čp. 49.
-- Sourozenci: v Bítouchově 1809–1832 žádný další křest tohoto páru (deník ř. 3–4). Pozor – v Bítouchově je víc Josefů Hausů
-  (čp. 39, 40/15, 8/25, 7), každý s jinou ženou; rozhoduje jméno matky.
-- Další kroky: (1) úmrtí Bítouchov 1823–1836 (Z Semily sign. 5206, ARON f6257136) – nezemřel Josef Petr nebo některý rodič?
-  (2) sňatek: oddíl Bítouchova v O sign. 5202 (fol. 321–325) a Příkrý před 1821; (3) křty 1833–1850 (index sign. 5213,
-  ARON 55b2a874; knihy 5195–5197); od 1840/41 patří Bítouchov i Příkrý k farnosti Bozkov (N sign. 4860, index 4867);
-  (4) doověřit neověřené křty z deníku ř. 4.
+- Křest Josefa Petra (1823) zapsán. Rodiče: Josef Hausa × Anežka Špidlenová z Příkrého čp. 49; sňatek 20. 11. 1815 Příkrý
+  (údaj uživatele, ženich omylem „Jan“; zápis jsem nečetl – O Bozkov sign. 4862, ARON c35d0273). Josef má být sedlák.
+- Nalezeno: Anežka Marie * 2. 8. 1818 Příkrý čp. 40, stejná matka, otec zapsán „Růžek (?) Josef, sedlák z Bítouchova“ –
+  pravděpodobná sestra (SIDE, prob). Zeptat se uživatele, zda zná jméno „Růžek“ (po chalupě?).
+- Negativní: Bítouchov křty 1809–1832 (deník 3–4), Příkrý křty 1816–1818 celé (deník 9), úmrtí Bítouchov 12/1824–6/1836
+  (deník 8; čp. 35 se nevyskytuje vůbec, Anežka nezemřela).
+- Další kroky: (1) Příkrý křty 1819–1839 (N Bozkov sign. 4859, ARON 2f07ce4c) – hledat matku Anežku Špidlenovou bez
+  ohledu na příjmení otce, čp. 40 a 49; (2) přečíst sňatek 1815 (sign. 4862); (3) úmrtí Příkrý (Z Bozkov sign. 4865,
+  ARON 824c283a) a Bítouchov po 1836 (sign. 5207; pokračování „pag. 186“ v sign. 5206); (4) křty Bítouchov 1833–1850
+  (sign. 5195–5197, od 1841 Bozkov sign. 4860); (5) úmrtí malé Anežky Marie.
+- V Bítouchově je víc Josefů Hausů (čp. 39 sedlák, 40/15, 8/25, 7) – rozhoduje jméno matky.
 - Web ani zveřejnění se neřešilo.

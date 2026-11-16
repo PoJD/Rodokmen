@@ -23,16 +23,16 @@ P = {
             r=["semily_krest_josef_petr_housa_1823"],
             note="Výchozí osoba hledání (zadání: najít sourozence). V matrice psán Hauſa (Hausa), v pozdějším rejstříku Housa."),
     2: dict(n="Josef Housa", y="", st="doc",
-            f=["podruh v Bítouchově čp. 35 (1823)"],
+            f=["× 20. 11. 1815 Příkrý, Anežka Špidlenová (podle uživatele; zápis v bozkovské matrice, ženich omylem jako Jan)", "sedlák z Bítouchova (1816, 1818; údaj uživatele)", "1823 a 1825 zapsán jako podruh v Bítouchově čp. 35"],
             r=["semily_krest_josef_petr_housa_1823"],
-            note="V Bítouchově žilo kolem 1810–1832 nejméně pět mužů jménem Josef Hausa; tento je doložen jen jako manžel Anežky Špidlenové. Sňatek zatím nenalezen."),
+            note="V Bítouchově žilo kolem 1810–1832 nejméně pět mužů jménem Josef Hausa; tento je manžel Anežky Špidlenové. Sňatek 1815 a stav „sedlák“ sdělil uživatel – zápis o sňatku jsem zatím sám nečetl. V zápisu z roku 1823 stojí „podruh“; 1816 je „Josef Hausa, sedlák z Bítouchova“ kmotrem u Špidlenů v Příkrém čp. 49 (N Bozkov sign. 4858, snímek 163)."),
     3: dict(n="Anežka Špidlenová", y="", st="doc",
             f=["z Příkrého čp. 49", "26. 1. 1825 kmotra v Bítouchově jako žena Josefa Hausy, podruha"],
-            r=["semily_krest_josef_petr_housa_1823"],
-            note="Příjmení v křestním zápisu čteno nesnadno; tvar Špidlen podle jiných zápisů z Příkrého. Kmotrovství 1825: matrika N Semily sign. 5192, snímek 205 (zápis zatím nezařazen do dat)."),
+            r=["semily_krest_josef_petr_housa_1823", "prikry_krest_anezka_marie_1818"],
+            note="V Bítouchově mezi zemřelými 1825–6/1836 není. Příjmení v křestním zápisu čteno nesnadno; tvar Špidlen podle jiných zápisů z Příkrého. Kmotrovství 1825: matrika N Semily sign. 5192, snímek 205 (zápis zatím nezařazen do dat)."),
     6: dict(n="Josef Špidlen", y="", st="doc", f=["Příkrý čp. 49"], r=["semily_krest_josef_petr_housa_1823"]),
-    7: dict(n="Barbora Zemanová", y="", st="doc", f=["ze Lhoty (?)"], r=["semily_krest_josef_petr_housa_1823"],
-            note="Čtení místa původu (Lhota) nejisté."),
+    7: dict(n="Barbora Zemanová", y="", st="doc", f=["z Roztok (podle křtu 1818; 1823 čteno nejistě jako „ze Lhoty“)"], r=["semily_krest_josef_petr_housa_1823"],
+            note="Místo původu: 1818 zřetelně „z Roztok“."),
 }
 
 # Rody = osm větví podle pradědečků a prababiček (čísla 8–15). Doplňte, jakmile je znáte:
@@ -43,6 +43,7 @@ LINES = {
 # Příbuzní mimo přímou linii (sourozenci, strýcové…): k = číslo předka, ke kterému patří.
 # dict(k=16, n="Josef Novák (1865–1920)", t="Bratr Jana. Kovář v …", r=["klic_zapisu"])
 SIDE = [
+    dict(k=2, n="Anežka Marie (* 2. 8. 1818 Příkrý čp. 40)", t="Pravděpodobně starší sestra Josefa Petra: matka je táž Anežka Špidlenová z Příkrého čp. 49 a stejná je i kmotra. Otec je ale zapsán jako Josef „Růžek“ (?), sedlák z Bítouchova, ne Hausa – proto jen pravděpodobné.", r=["prikry_krest_anezka_marie_1818"]),
 ]
 
 # Rozpory a otevřené otázky (na web do „Co hledáme“) jako dvojice (otázka, odpověď). Odpověď začněte
@@ -50,9 +51,11 @@ SIDE = [
 # ("Kdy se narodil Jan Novák?", "Otevřené: rodina říká 1850, v Holicích 1848–1852 nenalezen.")
 ISSUES = [
     ("Měl Josef Petr Housa (* 1823) sourozence?",
-     "Otevřené: v Bítouchově není v letech 1809–1832 zapsán žádný další křest dítěte Josefa Hausy a Anežky Špidlenové; ostatní křty dětí „Josefa Hausy“ patří jiným mužům téhož jména s jinými manželkami. Zbývá prověřit úmrtí 1823–1836, křty po roce 1832 a sousední farnosti."),
-    ("Kde a kdy se vzali Josef Housa a Anežka Špidlenová?",
-     "Otevřené: v rejstříku oddaných farnosti Semily 1806–1828 ani v oddílu Příkrého 1821–1822 sňatek není."),
+     "Hypotéza: sestra Anežka Marie, * 2. 8. 1818 v Příkrém čp. 40 – stejná matka, otec však zapsán pod jiným příjmením („Růžek“?). V Bítouchově 1809–1832 a v Příkrém 1816–1818 jiné dítě těchto rodičů není; zbývá Příkrý 1819–1839 a obě farnosti po roce 1832."),
+    ("Proč je otec Anežky Marie (1818) zapsán jako Josef „Růžek“, a ne Hausa?",
+     "Otevřené: omyl písaře (i v zápisu o sňatku 1815 je prý ženich chybně jako Jan), nebo jméno po chalupě."),
+    ("Kdy a kde zemřela Anežka Housová, roz. Špidlenová?",
+     "Otevřené: v Bítouchově mezi zemřelými od 12/1824 do 6/1836 není (zemřel tam jen jiný Josef Hausa, sedlák z čp. 39, 14. 5. 1833 v 67 letech). Neprověřeno: Příkrý a Bítouchov po roce 1836."),
 ]
 
 # Hypotézy o původu rodu nad rámec doložené linie (zobrazí se na stránce rodu):
